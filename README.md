@@ -2,10 +2,9 @@
 
 ---
 
-A backend developer with more than 15 years of experience with microservices and distributed systems mainly in Java.
+15+ years of experience with microservices and distributed systems. Fluent in Java and Kotlin, decent in Python and currently learning Go.
 
-I love listening to music, play D&D, Magic: The Gathering, mostly Commander, and video games, particularly MMORPGs.
-
+I love listening to music, play D&D, Magic: The Gathering, and video games.
 Love to experiment with new programming languages and frameworks to keep up to date and discover unique and interesting things.
 
 ---
