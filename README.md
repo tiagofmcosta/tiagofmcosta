@@ -8,7 +8,7 @@ Love to experiment with new programming languages and frameworks to keep up to d
 
 ---
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tiagofmcosta&show_icons=true&theme=catppuccin_mocha&hide_rank=true&include_all_commits=true" />
   </a>
@@ -18,7 +18,7 @@ Love to experiment with new programming languages and frameworks to keep up to d
 </p>
 
 #### Pinned Repositories
-<p align="center">
+<p>
   <a href="https://github.com/tiagofmcosta/wayland-random-wallpaper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiagofmcosta&repo=wayland-random-wallpaper&theme=catppuccin_mocha" />
   </a>
