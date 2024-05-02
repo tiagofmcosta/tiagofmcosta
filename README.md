@@ -1,4 +1,6 @@
-## Yellow there, I'm Tiago Costa
+<p align="center">
+  <img src="https://github.com/tiagofmcosta/tiagofmcosta/assets/1469109/a64917de-17fe-4c08-9b1a-57b78b2337ff"/>
+</p>
 
 A backend developer with more than 15 years of experience with microservices and distributed systems mainly in Java.
 
